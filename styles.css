@@ -1,19 +1,13 @@
-/*  your css code here. If applicable */
-body {
-  margin: 20px;
-}
-.firstcolumn{
-Width: 200px;
-}
-.midcolumn{
-Width: 600px;
-}
-.lastcolumn{
-Width: 200px;
-}
-.middlecontant{
-text-align: center;
-}
-.leftcontent{
-text-align: left;
-}
+ th,td{
+        border:1px solid black;
+    }
+    }
+    table{
+        border-collapse: collapse;
+		border: 3px solid black;
+    }
+		body {
+        width: 1100px;
+
+			background-color: #C6C9C0; 
+		}		
